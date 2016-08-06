@@ -1,0 +1,22 @@
+{
+  "name": "test-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizhasim/test-lamb-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizhasim/test-lamb-ci/issues"
+  },
+  "homepage": "https://github.com/faizhasim/test-lamb-ci#readme",
+  "dependencies": {
+    "babel": "^6.5.2"
+  }
+}
